@@ -5,5 +5,5 @@
   - pull request 规范
 
 - **其它**
-  - 中文文案风格指北
+  - [中文文案风格指南](/others/copywriter)
   - [浏览器兼容性指导意见](/others/compatibility)
