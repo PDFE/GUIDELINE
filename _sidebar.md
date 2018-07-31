@@ -1,0 +1,8 @@
+- **贡献规则**
+  - commit 信息规范
+  - branch 命名规范
+  - changelog 规范
+  - pull request 规范
+- **其它**
+  - 文案风格
+  - Web 兼容性指导意见
