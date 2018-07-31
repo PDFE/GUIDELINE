@@ -9,9 +9,9 @@
 
 ## 浏览器
 
-IE 11+
-Edge 14+
-Chrome 38+
-Firefox 54+
-所有使用 Chromium 41+ 内核并且严格遵守规范的国产浏览器
-UC、WeChat Webview、Tencent（只要求网站上有字）
+- IE 11+
+- Edge 14+
+- Chrome 38+
+- Firefox 54+
+- 所有使用 Chromium 41+ 内核并且严格遵守规范的国产浏览器
+- UC、WeChat Webview、Tencent（只要求网站上能看得见字）
