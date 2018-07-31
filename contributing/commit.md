@@ -2,6 +2,14 @@
 
 !> 所有成员必须遵守该规范。否则 PR 将会被以 `Squash` 的形式合并，推送到主分支的代码将会被 Force 回退。
 
+```
+<type>(<scope>): <subject>
+<BLANK LINE(Not necessary)>
+<body>
+<BLANK LINE>
+<footer>
+```
+
 ## Title
 
 (1) type
@@ -27,7 +35,7 @@
 
 > scope 非必须，当改动代码范围较大或者范围不明确时可忽略
 
-!> 当使用 Merge Pull Request 合并不同分支时，scope 为 PR 在 GitHub 上的编号
+!> 当使用 Merge Pull Request 合并不同分支时，scope 为 PR 在 GitHub 上的编号  
 当使用 revert 回退代码时，scope 为对应 commit 的 Title，也可以是简短的介绍。
 
 (3) subject
