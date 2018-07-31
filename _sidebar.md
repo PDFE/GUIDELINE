@@ -1,8 +1,8 @@
-- 贡献规则
+- **贡献规则**
   - [commit 信息规范](/contributing/commit)
   - branch 命名规范
   - changelog 规范
   - pull request 规范
-- 其它
-  - 文案风格
-  - Web 兼容性指导意见
+- **其它**
+  - 中文文案风格指北
+  - 浏览器兼容性指导意见

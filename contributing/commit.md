@@ -6,7 +6,9 @@
 
 (1) type
 
-`type` 用于说明 commit 的类别，只允许使用次啊面的标识；如果本条 commit 包括两个以上的 `type`，使用 `/` 分开。
+`type` 用于说明 commit 的类别，只允许使用下面的标识；如果本条 commit 包括两个以上的 `type`，使用 `/` 分开。
+
+> 不推荐在一条 commit 里面涉及太多类别。
 
 - revert: Revert 代码回退，用于撤回某个改动
 - feat: New feature 新功能
@@ -25,8 +27,8 @@
 
 > scope 非必须，当改动代码范围较大或者范围不明确时可忽略
 
-!> 当使用 Merge Pull Request 合并不同分支时，scope 为 PR 在 GitHub 上的编号。
-!> 当使用 revert 回退代码时，scope 为对应 commit 的 Title，也可以是简短的介绍。
+!> 当使用 Merge Pull Request 合并不同分支时，scope 为 PR 在 GitHub 上的编号
+当使用 revert 回退代码时，scope 为对应 commit 的 Title，也可以是简短的介绍。
 
 (3) subject
 
