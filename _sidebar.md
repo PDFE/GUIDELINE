@@ -1,4 +1,5 @@
 - **贡献规则**
+  - [Workflow 工作流](/contributing/workflow)
   - [Commit 信息规范](/contributing/commit)
   - [Branch 命名规范](/contributing/branch)
   - changelog 规范

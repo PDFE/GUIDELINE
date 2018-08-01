@@ -1,6 +1,6 @@
 # 中文文案风格指南
 
-由「[Sukka](https://github.com/SukkaW)」为「DanmukuFE」和自己制定的中文文案风格和排版指南，介绍了文书表述上的一些文字格式规范，目的在于增强文字的可读性和产品对外形象的一致性。在编写的过程中，参考了「[豌豆荚文案风格指南 (2014.05.12)](https://docs.google.com/document/d/1R8lMCPf6zCD5KEA8ekZ5knK77iw9J-vJ6vEopPemqZM)」、「[W3C 中文排版需求](https://www.w3.org/TR/clreq/)」和「[中文文案排版指北（简体中文版）](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)」，并在它们的基础上做了较大修改。
+由「[Sukka](https://github.com/SukkaW)」为「Project Danmaku Front-End」和自己制定的中文文案风格和排版指南，介绍了文书表述上的一些文字格式规范，目的在于增强文字的可读性和产品对外形象的一致性。在编写的过程中，参考了「[豌豆荚文案风格指南 (2014.05.12)](https://docs.google.com/document/d/1R8lMCPf6zCD5KEA8ekZ5knK77iw9J-vJ6vEopPemqZM)」、「[W3C 中文排版需求](https://www.w3.org/TR/clreq/)」和「[中文文案排版指北（简体中文版）](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)」，并在它们的基础上做了较大修改。
 
 > 归根结底，你的文字最终是要拥有可读性。众多的排版指南归根结底是为了用户更好的体验。这就是为什么我依然要编写这样一个指南，即使已经有了公认的「[中文文案排版指北（简体中文版）](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)」。
 
@@ -150,13 +150,13 @@
 
 > "Suka",a Modern and Simple Theme for Hexo,with a lot of powerful features.
 
-#### 数字与单位之间需要增加空格
+#### 数字与单位之间建议增加空格
 
-正确：
+用法：
 
 > 我家的光纤入户宽带有 10 Gbps，SSD 一共有 20 TB。
 
-错误：
+对比用法：
 
 > 我家的光纤入户宽带有 10Gbps，SSD 一共有 10TB。
 
