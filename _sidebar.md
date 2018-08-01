@@ -7,6 +7,7 @@
 
 - **代码风格**
   - [基本约定](/style/basic)
+  - [HTML 代码风格](style/html)
 
 - **其它**
   - [中文文案风格指南](/others/copywriter)
