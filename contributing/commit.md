@@ -18,6 +18,9 @@
 
 > 不推荐在一条 commit 里面涉及太多类别。
 
+- init: Initialization 初始化项目、模块、组件
+- add: Add 新增组件、模块
+- str: Structure 框架搭建
 - revert: Revert 代码回退，用于撤回某个改动
 - feat: New feature 新功能
 - fix: Fix bug 修补 bug
