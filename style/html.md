@@ -37,7 +37,7 @@
 
 ```html
 <div>
-  <img src="pdfe.svg" alt="Project Danmuku Front-End Icon" />
+    <img src="pdfe.svg" alt="Project Danmuku Front-End Icon" />
 </div>
 ```
 
@@ -91,20 +91,20 @@
 ```
 <!-- 用法 -->
 <dl>
-  <dt>...</dt>
-  <dd>
-    <ul>
-      <li>...</li>
-    </ul>
-  </dd>
+    <dt>...</dt>
+    <dd>
+      <ul>
+        <li>...</li>
+      </ul>
+    </dd>
 </dl>
 
 <!-- 对比用法 -->
 <dl>
-  <dt>...</dt>
-  <ul>
-    <li>...</li>
-  </ul>
+    <dt>...</dt>
+    <ul>
+        <li>...</li>
+    </ul>
 </dl>
 ```
 
