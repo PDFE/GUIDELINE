@@ -5,6 +5,9 @@
   - [Changelog 规范](/contributing/changelog)
   - [Pull Request 规范](/contributing/pr)
 
+- **代码风格**
+  - [基本约定](/style/basic)
+
 - **其它**
   - [中文文案风格指南](/others/copywriter)
   - [浏览器兼容性指导意见](/others/compatibility)
